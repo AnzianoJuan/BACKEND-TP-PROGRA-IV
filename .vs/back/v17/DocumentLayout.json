@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\juani\\Desktop\\acces\\UTN-PROGRAMACION\\2DO-A\u00D1O\\2DO-CUATRIMESTRE\\programacion-iv\\TP-PROGRA-iv\\back\\back\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{855CD498-F986-4333-8464-81C7BB2B9039}|back\\back.csproj|c:\\users\\juani\\desktop\\acces\\utn-programacion\\2do-a\u00F1o\\2do-cuatrimestre\\programacion-iv\\tp-progra-iv\\back\\back\\back\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{855CD498-F986-4333-8464-81C7BB2B9039}|back\\back.csproj|solutionrelative:back\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{855CD498-F986-4333-8464-81C7BB2B9039}|back\\back.csproj|c:\\users\\juani\\desktop\\acces\\utn-programacion\\2do-a\u00F1o\\2do-cuatrimestre\\programacion-iv\\tp-progra-iv\\back\\back\\back\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{855CD498-F986-4333-8464-81C7BB2B9039}|back\\back.csproj|solutionrelative:back\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -23,6 +27,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\juani\\Desktop\\acces\\UTN-PROGRAMACION\\2DO-A\u00D1O\\2DO-CUATRIMESTRE\\programacion-iv\\TP-PROGRA-iv\\back\\back\\back\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "back\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\juani\\Desktop\\acces\\UTN-PROGRAMACION\\2DO-A\u00D1O\\2DO-CUATRIMESTRE\\programacion-iv\\TP-PROGRA-iv\\back\\back\\back\\Models\\Usuario.cs",
+              "RelativeToolTip": "back\\Models\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T19:56:34.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\juani\\Desktop\\acces\\UTN-PROGRAMACION\\2DO-A\u00D1O\\2DO-CUATRIMESTRE\\programacion-iv\\TP-PROGRA-iv\\back\\back\\back\\Program.cs",
               "RelativeDocumentMoniker": "back\\Program.cs",
