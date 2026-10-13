@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\juani\\Desktop\\acces\\UTN-PROGRAMACION\\2DO-AÑO\\2DO-CUATRIMESTRE\\programacion-iv\\TP-PROGRA-iv\\back\\back\\back\\back.csproj": {}
+    "C:\\Users\\Usuario\\dev\\proyecto4\\BACKEND-TP-PROGRA-IV\\back\\back.csproj": {}
   },
   "projects": {
-    "C:\\Users\\juani\\Desktop\\acces\\UTN-PROGRAMACION\\2DO-AÑO\\2DO-CUATRIMESTRE\\programacion-iv\\TP-PROGRA-iv\\back\\back\\back\\back.csproj": {
+    "C:\\Users\\Usuario\\dev\\proyecto4\\BACKEND-TP-PROGRA-IV\\back\\back.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\juani\\Desktop\\acces\\UTN-PROGRAMACION\\2DO-AÑO\\2DO-CUATRIMESTRE\\programacion-iv\\TP-PROGRA-iv\\back\\back\\back\\back.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\dev\\proyecto4\\BACKEND-TP-PROGRA-IV\\back\\back.csproj",
         "projectName": "back",
-        "projectPath": "C:\\Users\\juani\\Desktop\\acces\\UTN-PROGRAMACION\\2DO-AÑO\\2DO-CUATRIMESTRE\\programacion-iv\\TP-PROGRA-iv\\back\\back\\back\\back.csproj",
-        "packagesPath": "C:\\Users\\juani\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\juani\\Desktop\\acces\\UTN-PROGRAMACION\\2DO-AÑO\\2DO-CUATRIMESTRE\\programacion-iv\\TP-PROGRA-iv\\back\\back\\back\\obj\\",
+        "projectPath": "C:\\Users\\Usuario\\dev\\proyecto4\\BACKEND-TP-PROGRA-IV\\back\\back.csproj",
+        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Usuario\\dev\\proyecto4\\BACKEND-TP-PROGRA-IV\\back\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\juani\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -30,6 +30,7 @@
         },
         "frameworks": {
           "net8.0": {
+            "framework": "net8.0",
             "targetAlias": "net8.0",
             "projectReferences": {}
           }
@@ -42,12 +43,13 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "all"
+          "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.100"
+        "SdkAnalysisLevel": "10.0.400"
       },
       "frameworks": {
         "net8.0": {
+          "framework": "net8.0",
           "targetAlias": "net8.0",
           "dependencies": {
             "Swashbuckle.AspNetCore": {
@@ -74,7 +76,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.401/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
