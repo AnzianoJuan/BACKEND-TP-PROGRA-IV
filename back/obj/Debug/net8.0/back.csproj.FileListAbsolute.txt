@@ -1,0 +1,8 @@
+C:\Users\juani\Desktop\acces\UTN-PROGRAMACION\2DO-AÑO\2DO-CUATRIMESTRE\programacion-iv\TP-PROGRA-iv\back\back\back\obj\Debug\net8.0\back.csproj.AssemblyReference.cache
+C:\Users\juani\Desktop\acces\UTN-PROGRAMACION\2DO-AÑO\2DO-CUATRIMESTRE\programacion-iv\TP-PROGRA-iv\back\back\back\obj\Debug\net8.0\back.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juani\Desktop\acces\UTN-PROGRAMACION\2DO-AÑO\2DO-CUATRIMESTRE\programacion-iv\TP-PROGRA-iv\back\back\back\obj\Debug\net8.0\back.AssemblyInfoInputs.cache
+C:\Users\juani\Desktop\acces\UTN-PROGRAMACION\2DO-AÑO\2DO-CUATRIMESTRE\programacion-iv\TP-PROGRA-iv\back\back\back\obj\Debug\net8.0\back.AssemblyInfo.cs
+C:\Users\juani\Desktop\acces\UTN-PROGRAMACION\2DO-AÑO\2DO-CUATRIMESTRE\programacion-iv\TP-PROGRA-iv\back\back\back\obj\Debug\net8.0\back.csproj.CoreCompileInputs.cache
+C:\Users\juani\Desktop\acces\UTN-PROGRAMACION\2DO-AÑO\2DO-CUATRIMESTRE\programacion-iv\TP-PROGRA-iv\back\back\back\obj\Debug\net8.0\back.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\juani\Desktop\acces\UTN-PROGRAMACION\2DO-AÑO\2DO-CUATRIMESTRE\programacion-iv\TP-PROGRA-iv\back\back\back\obj\Debug\net8.0\back.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\juani\Desktop\acces\UTN-PROGRAMACION\2DO-AÑO\2DO-CUATRIMESTRE\programacion-iv\TP-PROGRA-iv\back\back\back\obj\Debug\net8.0\back.sourcelink.json
